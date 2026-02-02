@@ -2,7 +2,7 @@
 A competitive TF2 HUD built for clarity, performance, and tactical awareness.
 ---
 
-## 🎯 Features
+## Features
 
 - Large, centered health and ammo indicators  
 - Clean killfeed with team-colored text  
