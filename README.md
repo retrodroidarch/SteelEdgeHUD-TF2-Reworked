@@ -35,7 +35,4 @@ Let me know if you want a version with your own branding (like a custom name ins
 - Built using ToonHUD Configurator
 - Inspired by competitive HUDs like RaysHUD and PVHUD
 - Packaged and published by RetroDroidArch 
-
-
-=on with your own branding (like a custom name instead of `toonhud`) or if you want help adding screenshots next. Yo
-![Scoreboard](screenshots/scoreboard.png
+===
