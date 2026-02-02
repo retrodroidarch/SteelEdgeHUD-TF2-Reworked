@@ -27,10 +27,9 @@ Steam\steamapps\common\Team Fortress 2\tf\custom
 ## Screenshots
 
 *(Add in-game screenshots here — main HUD, scoreboard, killfeed, etc.)*  
-You can upload them to your repo and link them like this:
 ---
 =-=
-Let me know if you want a version with your own branding (like a custom name instead of `toonhud`) or if you want help adding screenshots next.
+Let me know if you want a version with your own branding (like a custom name instead of `SteelEdgeHUD`)
 
 - Built using ToonHUD Configurator
 - Inspired by competitive HUDs like RaysHUD and PVHUD
